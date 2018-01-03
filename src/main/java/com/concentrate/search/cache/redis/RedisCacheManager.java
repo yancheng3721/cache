@@ -14,7 +14,7 @@ import com.concentrate.search.cache.MapCache;
  * mapClass/collectionClass是指REDIS缓存如果需要在jvm也一份的话，该JVM缓存以什么类型的Map进行JVM缓存<br>
  * REDIS的缓存基于SNF的REDIS缓存框架实现，存储的key value均为二进制
  *
- * @author 12091669
+ * @author
  * @see [相关类/方法]（可选）
  * @since [产品/模块版本] （可选）
  */

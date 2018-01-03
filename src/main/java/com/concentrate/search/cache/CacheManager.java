@@ -11,7 +11,7 @@ package com.concentrate.search.cache;
  * 
  * 
  * 
- * @author 12091669
+ * @author
  *
  */
 public interface CacheManager   {
